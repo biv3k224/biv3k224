@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently a Junior Computer Science Student @Youngstown State University<br>Java Developer, Spring boot, Data Science<br>Data Structure and Algorithm, Optimization<br>C, C++, Python, SQL, Machine Learning and Data Science
+I’m currently a Senior Computer Science Student @Youngstown State University<br>Java Developer, Spring boot, Big Data, Data Science<br>Data Structure and Algorithm, Optimization<br>C, C++, Python, SQL, Machine Learning and Data Science
 
 
 ## 🌐 Socials:
