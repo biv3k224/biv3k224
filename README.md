@@ -1,3 +1,12 @@
+[![Pixel Art Wallpaper Desktop Gif](https://github.com/user-attachments/assets/68b05b87-a235-4916-82e3-b3d8bfa59896)
+]()
+<h1 align="center">Hi 👋, I'm Abhishek Ganvir!</h1>
+<h3 align="center">A Passionate Full Stack Developer from India
+    </h3>
+<div align="left">
+    <div align="left">
+  <img src
+
 # 💫 About Me:
 I’m currently a Senior Computer Science Student @Youngstown State University<br>Java Developer, Spring boot, Big Data, Data Science<br>Data Structure and Algorithm, Optimization<br>C, C++, Python, SQL, Machine Learning and Data Science
 
