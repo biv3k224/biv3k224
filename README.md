@@ -1,7 +1,7 @@
 [![Pixel Art Wallpaper Desktop Gif](https://github.com/user-attachments/assets/68b05b87-a235-4916-82e3-b3d8bfa59896)
 ]()
-<h1 align="center">Hi 👋, I'm Abhishek Ganvir!</h1>
-<h3 align="center">A Passionate Full Stack Developer from India
+<h1 align="center">Hi 👋, I'm Bibek Kumar Tamang!</h1>
+<h3 align="center">A Passionate Full Stack Java Developer 
     </h3>
 <div align="left">
     <div align="left">
