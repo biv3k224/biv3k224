@@ -8,7 +8,7 @@
   <img src
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biv3k224&label=Profile%20views&color=0e75b6&style=flat" alt="biv3k224" /> </p>
 # 💫 About Me:
-I’m currently a Senior Computer Science Student @Youngstown State University<br>Java Developer, Spring boot, Big Data, Data Science<br>Data Structure and Algorithm, Optimization<br>C, C++, Python, SQL, Machine Learning and Data Science
+I’m currently a Senior Computer Science Student @Youngstown State University<br>Java Developer, Spring boot, System Design, Big Data, Data Science<br>Data Structure and Algorithm, Optimization<br>C, C++, Python, SQL, Machine Learning and Data Science
 
 
 ## 🌐 Socials:
@@ -24,7 +24,9 @@ I’m currently a Senior Computer Science Student @Youngstown State University<b
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005F0F.svg?style=for-the-badge&logo=thymeleaf&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
 
 
 
