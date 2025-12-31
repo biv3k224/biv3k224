@@ -8,7 +8,7 @@
   <img src
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biv3k224&label=Profile%20views&color=0e75b6&style=flat" alt="biv3k224" /> </p>
 # 💫 About Me:
-I’m currently a Senior Computer Science Student @Youngstown State University<br>Java Developer, Spring boot, System Design, Big Data, Data Science<br>Data Structure and Algorithm, Optimization<br>C, C++, Python, SQL, Machine Learning and Data Science
+I’m currently a Senior Computer Science Student @Youngstown State University<br>Java Developer, Spring boot, System Design, Big Data, Data Science<br>Data Structure and Algorithm, Optimization<br>C, C++, Python, SQL, NoSQL, Microservices
 
 
 ## 🌐 Socials:
