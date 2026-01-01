@@ -31,9 +31,11 @@ I’m currently a Senior Computer Science Student @Youngstown State University<b
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=biv3k224&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=biv3k224&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=biv3k224&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=biv3k224&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biv3k224&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
