@@ -1,19 +1,32 @@
 [![Pixel Art Wallpaper Desktop Gif](https://github.com/user-attachments/assets/68b05b87-a235-4916-82e3-b3d8bfa59896)
 ]()
 <h1 align="center">Hi 👋, I'm Bibek Kumar Tamang!</h1>
-<h3 align="center">A Passionate Full Stack Java Developer 
+<h3 align="center">A Motivated Full Stack Java Developer 
     </h3>
 <div align="left">
     <div align="left">
   <img src
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biv3k224&label=Profile%20views&color=0e75b6&style=flat" alt="biv3k224" /> </p>
+        <p align="center">
+  <a href="https://www.linkedin.com/in/btamang/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/biv3k224" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-biv3k224-181717?logo=github&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/Bivek224/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Bivek224-FFA116?logo=leetcode&logoColor=black" />
+  </a>
+</p>
+
 # 💫About Me:
-I’m currently a Senior Computer Science Student @Youngstown State University<br>Java Developer, Spring boot, System Design, Big Data, Data Science<br>Data Structure and Algorithm, Optimization<br>C, C++, Python, SQL, NoSQL, Microservices
+I am a Senior Computer Science student at Youngstown State University with expertise in Full Stack Development, System Design, and Data Science. I build scalable and efficient applications using Java, Spring Boot, and modern web technologies, with strong skills in data structures, algorithms, and optimization. Experienced in C, C++, Python, SQL, and NoSQL, I am passionate about designing robust systems, solving complex problems, and delivering high-quality software solutions.
 
-
+___
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100009880591149) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bee_vekk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/btamang) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bivektamang016@gmail.com) 
 
+___
 # 💻 Tech Stack:
 ### Core Technologies
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
@@ -44,8 +57,17 @@ I’m currently a Senior Computer Science Student @Youngstown State University<b
 ![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
+___
 
+## 🧠 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Bivek224?theme=dark&font=Fira%20Code&ext=heatmap" />
+</p>
+
+___
 # 📊 GitHub Stats:
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=biv3k224&theme=tokyonight)
 
 
