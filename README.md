@@ -1,83 +1,158 @@
-[![Pixel Art Wallpaper Desktop Gif](https://github.com/user-attachments/assets/68b05b87-a235-4916-82e3-b3d8bfa59896)
-]()
-<h1 align="center">Hi 👋, I'm Bibek Kumar Tamang!</h1>
-<h3 align="center">A Motivated Full Stack Java Developer 
-    </h3>
-<div align="left">
-    <div align="left">
-  <img src
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=biv3k224&label=Profile%20views&color=0e75b6&style=flat" alt="biv3k224" /> </p>
-        <p align="center">
-  <a href="https://www.linkedin.com/in/btamang/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/biv3k224" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-biv3k224-181717?logo=github&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/Bivek224/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Bivek224-FFA116?logo=leetcode&logoColor=black" />
-  </a>
+<!-- Banner -->
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/68b05b87-a235-4916-82e3-b3d8bfa59896" width="100%" />
 </p>
 
-# 💫About Me:
-I am a Senior Computer Science student at Youngstown State University with expertise in Full Stack Development, System Design, and Data Science. I build scalable and efficient applications using Java, Spring Boot, and modern web technologies, with strong skills in data structures, algorithms, and optimization. Experienced in C, C++, Python, SQL, and NoSQL, I am passionate about designing robust systems, solving complex problems, and delivering high-quality software solutions.
+<h1 align="center">Hi 👋, I'm Bibek Kumar Tamang</h1>
 
-___
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100009880591149) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bee_vekk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/btamang) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bivektamang016@gmail.com) 
-
-___
-# 💻 Tech Stack:
-### Core Technologies
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![AWS Cloud](https://img.shields.io/badge/Cloud-AWS-%23FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-
-
-### Other Tools & Frameworks
-![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) 
-![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005F0F.svg?style=for-the-badge&logo=thymeleaf&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white) 
-![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-___
-
-## 🧠 LeetCode Stats
+<h3 align="center">
+Full Stack Java Developer | Spring Boot | Microservices | AWS | Angular
+</h3>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Bivek224?theme=dark&font=Fira%20Code&ext=heatmap" />
+Building scalable enterprise applications using Java, Spring Boot, Microservices, Cloud Technologies, and Modern Frontend Frameworks.
 </p>
 
-___
-# 📊 GitHub Stats:
+---
 
-![GitHub Streak](https://streak-stats.demolab.com?user=biv3k224&theme=tokyonight)
+## 🚀 About Me
 
+💼 Full Stack Java Developer with **4+ years of experience** building enterprise applications.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+🔹 Currently working as **Software Developer III** developing cloud-native microservices and distributed systems.
+
+🔹 Experienced in designing RESTful APIs, event-driven systems, secure authentication, CI/CD pipelines, and cloud deployments.
+
+🔹 Passionate about:
+- Scalable Software Architecture
+- Distributed Systems
+- Cloud Computing
+- Backend Engineering
+- Clean Code & Design Patterns
 
 ---
-[![](https://visitcount.itsvg.in/api?id=biv3k224&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/btamang">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin">
+</a>
+
+<a href="mailto:Bibektamang3042@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Email-red?logo=gmail">
+</a>
+
+<a href="https://github.com/biv3k224">
+<img src="https://img.shields.io/badge/GitHub-biv3k224-black?logo=github">
+</a>
+
+<a href="https://leetcode.com/u/Bivek224/">
+<img src="https://img.shields.io/badge/LeetCode-Bivek224-orange?logo=leetcode">
+</a>
+
+</p>
+
+---
+
+# 💻 Tech Stack
+
+## Languages
+
+![Java](https://img.shields.io/badge/Java-17-orange?style=for-the-badge&logo=openjdk)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![SQL](https://img.shields.io/badge/SQL-Database-blue?style=for-the-badge)
+
+---
+
+## Backend
+
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot)
+![Spring MVC](https://img.shields.io/badge/SpringMVC-green?style=for-the-badge)
+![Spring Security](https://img.shields.io/badge/SpringSecurity-green?style=for-the-badge)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-green?style=for-the-badge)
+![Hibernate](https://img.shields.io/badge/Hibernate-brown?style=for-the-badge&logo=hibernate)
+![Kafka](https://img.shields.io/badge/Kafka-black?style=for-the-badge&logo=apachekafka)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+![SOAP](https://img.shields.io/badge/SOAP-grey?style=for-the-badge)
+
+---
+
+## Frontend
+
+![Angular](https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular)
+![HTML5](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
+![SCSS](https://img.shields.io/badge/SCSS-pink?style=for-the-badge&logo=sass)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap)
+![Tailwind](https://img.shields.io/badge/Tailwind-blue?style=for-the-badge&logo=tailwindcss)
+
+---
+
+## Cloud & DevOps
+
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws)
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge&logo=kubernetes)
+![OpenShift](https://img.shields.io/badge/OpenShift-red?style=for-the-badge&logo=redhatopenshift)
+![Jenkins](https://img.shields.io/badge/Jenkins-red?style=for-the-badge&logo=jenkins)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-black?style=for-the-badge&logo=githubactions)
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
+
+---
+
+## Databases
+
+![Oracle](https://img.shields.io/badge/Oracle-red?style=for-the-badge&logo=oracle)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
+![SQL Server](https://img.shields.io/badge/SQL_Server-red?style=for-the-badge)
+![Redis](https://img.shields.io/badge/Redis-red?style=for-the-badge&logo=redis)
+
+---
+
+## Testing & Monitoring
+
+![JUnit](https://img.shields.io/badge/JUnit-green?style=for-the-badge)
+![Mockito](https://img.shields.io/badge/Mockito-green?style=for-the-badge)
+![Selenium](https://img.shields.io/badge/Selenium-green?style=for-the-badge&logo=selenium)
+![Grafana](https://img.shields.io/badge/Grafana-orange?style=for-the-badge&logo=grafana)
+![Prometheus](https://img.shields.io/badge/Prometheus-orange?style=for-the-badge&logo=prometheus)
+![Splunk](https://img.shields.io/badge/Splunk-black?style=for-the-badge&logo=splunk)
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=biv3k224&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=biv3k224&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biv3k224&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🧠 LeetCode
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/Bivek224?theme=dark&font=Fira%20Code&ext=heatmap"/>
+</p>
+
+---
+
+## 💡 Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=biv3k224&label=Profile+Views&color=blue&style=flat"/>
+</p>
